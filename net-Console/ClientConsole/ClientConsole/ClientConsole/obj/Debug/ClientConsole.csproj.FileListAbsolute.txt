@@ -1,0 +1,6 @@
+D:\net-cshape\net-Console\ClientConsole\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe.config
+D:\net-cshape\net-Console\ClientConsole\ClientConsole\ClientConsole\bin\Debug\ClientConsole.exe
+D:\net-cshape\net-Console\ClientConsole\ClientConsole\ClientConsole\bin\Debug\ClientConsole.pdb
+D:\net-cshape\net-Console\ClientConsole\ClientConsole\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
+D:\net-cshape\net-Console\ClientConsole\ClientConsole\ClientConsole\obj\Debug\ClientConsole.exe
+D:\net-cshape\net-Console\ClientConsole\ClientConsole\ClientConsole\obj\Debug\ClientConsole.pdb

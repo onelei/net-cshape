@@ -1,0 +1,11 @@
+D:\net-cshape\net-Console\net-Console\bin\Debug\net-Console.exe.config
+D:\net-cshape\net-Console\net-Console\bin\Debug\net-Console.exe
+D:\net-cshape\net-Console\net-Console\bin\Debug\net-Console.pdb
+D:\net-cshape\net-Console\net-Console\obj\Debug\net-Console.exe
+D:\net-cshape\net-Console\net-Console\obj\Debug\net-Console.pdb
+D:\net-cshape\net-Console\ServerConsole\ServerConsole\bin\Debug\net-Console.exe.config
+D:\net-cshape\net-Console\ServerConsole\ServerConsole\obj\Debug\net-Console.exe
+D:\net-cshape\net-Console\ServerConsole\ServerConsole\obj\Debug\net-Console.pdb
+D:\net-cshape\net-Console\ServerConsole\ServerConsole\bin\Debug\net-Console.exe
+D:\net-cshape\net-Console\ServerConsole\ServerConsole\bin\Debug\net-Console.pdb
+D:\net-cshape\net-Console\ServerConsole\ServerConsole\obj\Debug\ServerConsole.csprojResolveAssemblyReference.cache
